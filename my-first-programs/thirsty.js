@@ -1,0 +1,1 @@
+console.log('My favorite colde beverage is Coca-Cola.');
