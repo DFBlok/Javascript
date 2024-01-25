@@ -1,5 +1,11 @@
 let larger = function(n1, n2){
-    return Math.max(n1, n2);
+    if (n1 > n2){
+        return n1
+    }
+    else{
+        return n2
+    }
+    //Math.Max(n1, n2);
 }
 
 console.log(larger(256, 400));
