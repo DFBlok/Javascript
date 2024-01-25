@@ -13,6 +13,7 @@ console.log(theAnswer);
 
 console.log("================")
 let howMuch = function () {
-    5;
+    return 5;
   };
 console.log(howMuch());
+howMuch();
