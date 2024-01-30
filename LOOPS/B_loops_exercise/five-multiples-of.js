@@ -7,4 +7,5 @@ let fiveMultiplesOf = function(num){
 
 fiveMultiplesOf(7);
 console.log("---------------")
-fiveMultiplesOf(3);
+
+
