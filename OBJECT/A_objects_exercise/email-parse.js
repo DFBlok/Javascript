@@ -8,7 +8,7 @@ function emailParse(email){
         domain: domain
     };
 
-    //return object
+    //return object s
     return parseEmail;
 }
 
