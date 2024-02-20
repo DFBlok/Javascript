@@ -1,0 +1,12 @@
+let film = function(){
+    console.log("leak");
+    flam();
+    console.log("geek");
+};
+
+let flam = function(){
+    console.log("beak");
+    console.log("sneak");
+};
+
+film();
